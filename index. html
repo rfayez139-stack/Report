@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>الذكاء الاصطناعي التوليدي كعامل مساعد للمطورين</title>
+    <style>
+        body { font-family: Tahoma, sans-serif; line-height: 1.8; background-color: #f9f9f9; color: #333; padding: 20px; }
+        .container { max-width: 800px; margin: auto; background: #fff; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1 { color: #2c3e50; text-align: center; }
+        h2 { color: #2980b9; border-bottom: 2px solid #eee; padding-bottom: 5px; margin-top: 30px; }
+        .student-info { background: #ecf0f1; padding: 15px; border-radius: 5px; margin-bottom: 20px; }
+        img { max-width: 100%; height: auto; display: block; margin: 20px auto; border-radius: 8px; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: center; }
+        th { background-color: #2980b9; color: white; }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>الذكاء الاصطناعي التوليدي كعامل مساعد للمطورين</h1>
+    <div class="student-info">
+        <p><strong>الاسم:</strong> رنا فايز محمد صابر وهبه</p>
+        <p><strong>الرقم الجامعي:</strong> 250205</p>
+        <p><strong>المقرر:</strong> تطبيقات الإنترنت والمنصات</p>
+        <p><strong>أستاذة المادة:</strong> د/ مها فؤاد زغلول</p>
+    </div>
+    <img src="ai-developer.jpg" alt="صورة توضيحية">
+    <h2>المقدمة</h2>
+    <p>يرى العالم اليوم تطورات في برمجة وتطوير البرامج وإنشاء تصاميم للمواقع في تقنيات الذكاء الاصطناعي التوليدي، ولم يعد يقتصر دور الذكاء على إقامة المهام الروتينية بل أصبح شريكاً لكل إنسان في مختلف المجالات.</p>
+    <h2>عرض الموضوع</h2>
+    <p>يعتمد الذكاء على شرح كل ما يصعب على الطالب فهمه مثل أدوات مثل ChatGPT و Gemini ويساعد في تبسيط وتطوير الطلاب في نظام البرمجة ومساعدة المبتدئين.</p>
+    <h3>جدول توضيحي</h3>
+    <table>
+        <tr><th>لغة الويب</th><th>الدور الأساسي</th></tr>
+        <tr><td>HTML</td><td>بناء الهيكل</td></tr>
+        <tr><td>CSS</td><td>التنسيق والمظهر</td></tr>
+    </table>
+    <h2>الخاتمه</h2>
+    <p>يعتبر الذكاء الاصطناعي التوليدي ثروة حقيقية يجب استغلالها استغلالاً صحيحاً مع وجود وعي كامل لتحسين مهاراتنا.</p>
+    <h2>المراجع</h2>
+    <ul>
+        <li>د/ ابراهيم عبد الفتاح - الذكاء الاصطناعي ودوره في دعم وتيسير العملية التعليمية</li>
+        <li>د/ خالد عبد المنعم - تأثير الأدوات التكنولوجية الحديثة على التفكير النقدي</li>
+    </ul>
+</div>
+</body>
+</html>
